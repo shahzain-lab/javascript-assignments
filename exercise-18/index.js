@@ -17,32 +17,31 @@ console.log(places)
 
 
 // sorting alphabetically array
-const alphabetic = places.sort();
+const alphabetic = places.slice().sort();
 console.log(alphabetic)
 
 
 // reversing alphabetically array
-const reverse_alphabetic = places.sort().reverse(); 
+const reverse_alphabetic = places.slice().sort().reverse(); 
 console.log(reverse_alphabetic)
 
 // original array
 console.log(places)
 
 // reverse array
-places.reverse()
-console.log(places)
-
-// reverse to original array
-places.reverse()
-console.log(places)
+const placesReverse = places.slice().reverse()
+console.log(placesReverse)
 
 
 // sorting alphabetically array
-const alphabetic_2 = places.sort();
+const alphabetic_2 = places.slice().sort();
 console.log(alphabetic_2)
 
 
 // reversing alphabetically array
-const reverse_alphabetic_2 = places.sort().reverse(); 
+const reverse_alphabetic_2 = places.slice().sort().reverse(); 
 console.log(reverse_alphabetic_2)
+
+// original array
+console.log(places)
 
