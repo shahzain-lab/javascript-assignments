@@ -1,4 +1,4 @@
-// assignment no.17 - Shrinking Guest List: You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
+
 
 // my guest invitations
 const names = ['M. Ali', 'john david', 'corner luis', 'ziad ali'];

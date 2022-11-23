@@ -1,4 +1,3 @@
-// assignment no.32 - Checking Usernames: Do the following to create a program that simulates how websites ensure that everyone has a unique username.
 
 // current_users
 const current_users = ['john', 'mike', 'jasmine', 'alice', 'robbin', 'alex'];

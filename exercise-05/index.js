@@ -1,4 +1,3 @@
-// assignment no.05 - Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author.
 
 // Quote
 const quote_1 = "\"Whether, you think you can or you think you can\'t - your're right\"";
